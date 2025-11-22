@@ -13,3 +13,7 @@ Gambar content dan style digabungkan untuk menghasilkan gambar baru dengan bentu
 
 ## Cara menjalankan
 1. Install TensorFlow:
+2. Jalankan script:
+
+
+Hasil akan tersimpan sebagai `output.jpg`.
